@@ -57,7 +57,7 @@
   <div class="d2">
     <input class="i1" placeholder="Search course">
   </div>
-  <div  class="d2">
+ 
     <p class="p1">
       HOME
     </p>
@@ -70,7 +70,7 @@
     <p class="p4">
       PRACTISE
     </p>
-    </div>
+
 </div>
 </body>
 </html>
